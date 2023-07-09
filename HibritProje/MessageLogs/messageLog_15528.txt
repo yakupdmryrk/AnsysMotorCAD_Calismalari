@@ -1,0 +1,1490 @@
+02/06/2023 05:08:25 : Created file: C:\Users\Yakup\Desktop\Hibrit Proje\HibritProje\MessageLogs\messageLog_15528.txt
+02/06/2023 05:08:25 : Loaded file: C:\Users\Yakup\Desktop\Hibrit Proje\HibritProje.mot
+02/06/2023 05:11:57 : Save current data before loading new data? = Yes
+02/06/2023 05:12:03 : File C:\Users\Yakup\Desktop\Hibrit Proje\HibritProje.mot already exists
+Do you wish to overwrite it? = Yes
+02/06/2023 05:12:03 : Loaded file: C:\Users\Yakup\Desktop\Hibrit Proje\HibritProje.mot
+02/06/2023 05:15:08 : Loaded file: C:\Users\Yakup\Desktop\Hibrit Proje\HibritProje.mot
+02/06/2023 05:15:51 : File C:\Users\Yakup\Desktop\Hibrit Proje\HibritProje.mot already exists
+Do you wish to overwrite it? = Yes
+02/06/2023 05:15:51 : Loaded file: C:\Users\Yakup\Desktop\Hibrit Proje\HibritProje.mot
+02/06/2023 05:17:52 : Model error: Access violation at address 0000000001FEC98A in module 'Motor-CAD_15_1_2.exe'. Read of address 0000000000000018
+02/06/2023 05:20:17 : Exported ANSYS Design Modeler script to file C:\Users\Yakup\Desktop\Hibrit Proje\HibritProje.js
+02/06/2023 05:25:03 : Note: EWdg OH Mult [F] does not influence the E-Magnetic End Winding calculations.
+Manufacturing factors can be set under Input Data -> Settings -> E-Magnetics to adjust the EW inductance and length used.
+02/06/2023 05:25:11 : Note: EWdg OH Mult [F] does not influence the E-Magnetic End Winding calculations.
+Manufacturing factors can be set under Input Data -> Settings -> E-Magnetics to adjust the EW inductance and length used.
+02/06/2023 05:52:52 : Status: Solving FEA model
+02/06/2023 05:52:52 : Q axis current only Point Calculation
+02/06/2023 05:52:53 : Solving FEA model
+02/06/2023 05:52:53 : Load Point Calculation
+02/06/2023 05:52:53 : Solving FEA model
+02/06/2023 05:52:54 : Solving FEA model
+02/06/2023 05:52:54 : Solving FEA model
+02/06/2023 05:52:55 : Multistatic Inductance Calculation
+02/06/2023 05:52:55 : Solving FEA model
+02/06/2023 05:52:55 : Solving FEA model
+02/06/2023 05:52:55 : Solving FEA model
+02/06/2023 05:52:55 : Solving FEA model
+02/06/2023 05:52:55 : Solving FEA model
+02/06/2023 05:52:56 : Solving FEA model
+02/06/2023 05:52:56 : Solving FEA model
+02/06/2023 05:52:56 : Solving FEA model
+02/06/2023 05:52:56 : Solving FEA model
+02/06/2023 05:52:56 : Solving FEA model
+02/06/2023 05:52:56 : Solving FEA model
+02/06/2023 05:52:56 : Solving FEA model
+02/06/2023 05:52:57 : Solving FEA model
+02/06/2023 05:52:57 : Solving FEA model
+02/06/2023 05:52:57 : Solving FEA model
+02/06/2023 05:52:57 : Solving FEA model
+02/06/2023 05:52:57 : Solving FEA model
+02/06/2023 05:52:57 : Solving FEA model
+02/06/2023 05:52:57 : Solving FEA model
+02/06/2023 05:52:58 : Solving FEA model
+02/06/2023 05:52:58 : Solving FEA model
+02/06/2023 05:52:58 : Solving FEA model
+02/06/2023 05:52:58 : Solving FEA model
+02/06/2023 05:52:58 : Solving FEA model
+02/06/2023 05:52:58 : Solving FEA model
+02/06/2023 05:52:58 : Solving FEA model
+02/06/2023 05:52:59 : Solving FEA model
+02/06/2023 05:52:59 : Solving FEA model
+02/06/2023 05:52:59 : Solving FEA model
+02/06/2023 05:52:59 : Solving FEA model
+02/06/2023 05:52:59 : Solving FEA model
+02/06/2023 05:52:59 : Solving FEA model
+02/06/2023 05:52:59 : Solving FEA model
+02/06/2023 05:52:59 : Solving FEA model
+02/06/2023 05:53:00 : Solving FEA model
+02/06/2023 05:53:00 : Solving FEA model
+02/06/2023 05:53:00 : Solving FEA model
+02/06/2023 05:53:00 : Solving FEA model
+02/06/2023 05:53:00 : Solving FEA model
+02/06/2023 05:53:00 : Solving FEA model
+02/06/2023 05:53:00 : Solving FEA model
+02/06/2023 05:53:01 : Solving FEA model
+02/06/2023 05:53:01 : Solving FEA model
+02/06/2023 05:53:01 : Solving FEA model
+02/06/2023 05:53:01 : Solving FEA model
+02/06/2023 05:53:01 : Solving FEA model
+02/06/2023 05:53:01 : Solving FEA model
+02/06/2023 05:53:01 : Solving FEA model
+02/06/2023 05:53:02 : Solving FEA model
+02/06/2023 05:53:02 : Solving FEA model
+02/06/2023 05:53:02 : Solving FEA model
+02/06/2023 05:53:02 : Solving FEA model
+02/06/2023 05:53:02 : Solving FEA model
+02/06/2023 05:53:02 : Solving FEA model
+02/06/2023 05:53:02 : Solving FEA model
+02/06/2023 05:53:03 : Solving FEA model
+02/06/2023 05:53:03 : Solving FEA model
+02/06/2023 05:53:03 : Solving FEA model
+02/06/2023 05:53:03 : Solving FEA model
+02/06/2023 05:53:03 : Solving FEA model
+02/06/2023 05:53:03 : Solving FEA model
+02/06/2023 05:53:03 : Solving FEA model
+02/06/2023 05:53:04 : Solving FEA model
+02/06/2023 05:53:04 : Transient Back EMF Calculation
+02/06/2023 05:53:04 : Solving FEA model
+02/06/2023 05:53:27 : Open Circuit point Calculation
+02/06/2023 05:53:27 : Solving FEA model
+02/06/2023 05:56:45 : Solving FEA model
+02/06/2023 05:56:45 : Solving FEA model
+02/06/2023 05:56:45 : Solving FEA model
+02/06/2023 05:56:45 : Solving FEA model
+02/06/2023 05:56:45 : Solving FEA model
+02/06/2023 05:56:45 : Solving FEA model
+02/06/2023 05:56:46 : Solving FEA model
+02/06/2023 05:56:46 : Solving FEA model
+02/06/2023 05:56:46 : Solving FEA model
+02/06/2023 05:56:46 : Solving FEA model
+02/06/2023 05:56:46 : Solving FEA model
+02/06/2023 05:56:46 : Solving FEA model
+02/06/2023 05:56:46 : Solving FEA model
+02/06/2023 05:56:47 : Solving FEA model
+02/06/2023 05:56:47 : Solving FEA model
+02/06/2023 05:56:47 : Solving FEA model
+02/06/2023 05:56:47 : Solving FEA model
+02/06/2023 05:56:47 : Solving FEA model
+02/06/2023 05:56:47 : Solving FEA model
+02/06/2023 05:56:47 : Solving FEA model
+02/06/2023 05:56:47 : Solving FEA model
+02/06/2023 05:56:48 : Solving FEA model
+02/06/2023 05:56:48 : Solving FEA model
+02/06/2023 05:56:48 : Solving FEA model
+02/06/2023 05:56:48 : Solving FEA model
+02/06/2023 05:56:48 : Solving FEA model
+02/06/2023 05:56:48 : Solving FEA model
+02/06/2023 05:56:48 : Solving FEA model
+02/06/2023 05:56:49 : Solving FEA model
+02/06/2023 05:56:49 : Solving FEA model
+02/06/2023 05:56:49 : Solving FEA model
+02/06/2023 05:56:49 : Solving FEA model
+02/06/2023 05:56:49 : Solving FEA model
+02/06/2023 05:56:49 : Solving FEA model
+02/06/2023 05:56:49 : Solving FEA model
+02/06/2023 05:56:50 : Solving FEA model
+02/06/2023 05:56:50 : Solving FEA model
+02/06/2023 05:56:50 : Solving FEA model
+02/06/2023 05:56:50 : Solving FEA model
+02/06/2023 05:56:50 : Solving FEA model
+02/06/2023 05:56:50 : Solving FEA model
+02/06/2023 05:56:50 : Solving FEA model
+02/06/2023 05:56:51 : Solving FEA model
+02/06/2023 05:56:51 : Solving FEA model
+02/06/2023 05:56:51 : Solving FEA model
+02/06/2023 05:56:51 : Solving FEA model
+02/06/2023 05:56:51 : Solving FEA model
+02/06/2023 05:56:51 : Solving FEA model
+02/06/2023 05:56:51 : Solving FEA model
+02/06/2023 05:56:52 : Solving FEA model
+02/06/2023 05:56:52 : Solving FEA model
+02/06/2023 05:56:52 : Solving FEA model
+02/06/2023 05:56:52 : Solving FEA model
+02/06/2023 05:56:52 : Solving FEA model
+02/06/2023 05:56:52 : Solving FEA model
+02/06/2023 05:56:52 : Solving FEA model
+02/06/2023 05:56:52 : Solving FEA model
+02/06/2023 05:56:53 : Solving FEA model
+02/06/2023 05:56:53 : Solving FEA model
+02/06/2023 05:56:53 : Solving FEA model
+02/06/2023 05:56:53 : Solving FEA model
+02/06/2023 05:56:53 : Solving FEA model
+02/06/2023 05:56:53 : Solving FEA model
+02/06/2023 05:56:57 : Transient Torque Calculation
+02/06/2023 05:56:57 : Solving FEA model
+02/06/2023 05:57:24 : FEA Calculation Time: 271 Seconds
+02/06/2023 05:57:25 : Solving completed
+02/06/2023 05:57:25 : Nodes count = 5238
+02/06/2023 05:57:25 : Elements count = 10136
+02/06/2023 05:57:25 : Status: Solving Completed
+02/06/2023 09:29:55 : Failed to load output results from: C:\Users\Yakup\Desktop\Hibrit Proje\HibritProje\Emag\OutputResults.mot
+File does not exist.
+02/06/2023 09:29:55 : Failed to load graph results from: C:\Users\Yakup\Desktop\Hibrit Proje\HibritProje\Emag\GraphResults.ini
+File does not exist.
+02/06/2023 09:30:13 : Saved output results to: C:\Users\Yakup\Desktop\Hibrit Proje\HibritProje\Emag\outputResults.mot
+02/06/2023 09:30:13 : Saved graph results to: C:\Users\Yakup\Desktop\Hibrit Proje\HibritProje\Emag\GraphResults.ini
+02/06/2023 09:32:01 : Loaded output results from: C:\Users\Yakup\Desktop\Hibrit Proje\HibritProje\Emag\OutputResults.mot
+02/06/2023 09:32:01 : Loaded graph results from: C:\Users\Yakup\Desktop\Hibrit Proje\HibritProje\Emag\GraphResults.ini
+02/06/2023 10:49:36 : Status: Solving FEA model
+02/06/2023 10:49:36 : Q axis current only Point Calculation
+02/06/2023 10:49:36 : Solving FEA model
+02/06/2023 10:49:37 : Load Point Calculation
+02/06/2023 10:49:37 : Solving FEA model
+02/06/2023 10:49:38 : Solving FEA model
+02/06/2023 10:49:38 : Solving FEA model
+02/06/2023 10:49:38 : Multistatic Inductance Calculation
+02/06/2023 10:49:38 : Solving FEA model
+02/06/2023 10:49:38 : Solving FEA model
+02/06/2023 10:49:39 : Solving FEA model
+02/06/2023 10:49:39 : Solving FEA model
+02/06/2023 10:49:39 : Solving FEA model
+02/06/2023 10:49:39 : Solving FEA model
+02/06/2023 10:49:39 : Solving FEA model
+02/06/2023 10:49:39 : Solving FEA model
+02/06/2023 10:49:40 : Solving FEA model
+02/06/2023 10:49:40 : Solving FEA model
+02/06/2023 10:49:40 : Solving FEA model
+02/06/2023 10:49:40 : Solving FEA model
+02/06/2023 10:49:40 : Solving FEA model
+02/06/2023 10:49:40 : Solving FEA model
+02/06/2023 10:49:40 : Solving FEA model
+02/06/2023 10:49:41 : Solving FEA model
+02/06/2023 10:49:41 : Solving FEA model
+02/06/2023 10:49:41 : Solving FEA model
+02/06/2023 10:49:41 : Solving FEA model
+02/06/2023 10:49:41 : Solving FEA model
+02/06/2023 10:49:41 : Solving FEA model
+02/06/2023 10:49:41 : Solving FEA model
+02/06/2023 10:49:42 : Solving FEA model
+02/06/2023 10:49:42 : Solving FEA model
+02/06/2023 10:49:42 : Solving FEA model
+02/06/2023 10:49:42 : Solving FEA model
+02/06/2023 10:49:42 : Solving FEA model
+02/06/2023 10:49:42 : Solving FEA model
+02/06/2023 10:49:42 : Solving FEA model
+02/06/2023 10:49:42 : Solving FEA model
+02/06/2023 10:49:43 : Solving FEA model
+02/06/2023 10:49:43 : Solving FEA model
+02/06/2023 10:49:43 : Solving FEA model
+02/06/2023 10:49:43 : Solving FEA model
+02/06/2023 10:49:43 : Solving FEA model
+02/06/2023 10:49:43 : Solving FEA model
+02/06/2023 10:49:43 : Solving FEA model
+02/06/2023 10:49:44 : Solving FEA model
+02/06/2023 10:49:44 : Solving FEA model
+02/06/2023 10:49:44 : Solving FEA model
+02/06/2023 10:49:44 : Solving FEA model
+02/06/2023 10:49:44 : Solving FEA model
+02/06/2023 10:49:44 : Solving FEA model
+02/06/2023 10:49:44 : Solving FEA model
+02/06/2023 10:49:45 : Solving FEA model
+02/06/2023 10:49:45 : Solving FEA model
+02/06/2023 10:49:45 : Solving FEA model
+02/06/2023 10:49:45 : Solving FEA model
+02/06/2023 10:49:45 : Solving FEA model
+02/06/2023 10:49:45 : Solving FEA model
+02/06/2023 10:49:45 : Solving FEA model
+02/06/2023 10:49:46 : Solving FEA model
+02/06/2023 10:49:46 : Solving FEA model
+02/06/2023 10:49:46 : Solving FEA model
+02/06/2023 10:49:46 : Solving FEA model
+02/06/2023 10:49:46 : Solving FEA model
+02/06/2023 10:49:46 : Solving FEA model
+02/06/2023 10:49:46 : Solving FEA model
+02/06/2023 10:49:46 : Solving FEA model
+02/06/2023 10:49:47 : Solving FEA model
+02/06/2023 10:49:47 : Solving FEA model
+02/06/2023 10:49:47 : Solving FEA model
+02/06/2023 10:49:47 : Solving FEA model
+02/06/2023 10:49:47 : Transient Back EMF Calculation
+02/06/2023 10:49:47 : Solving FEA model
+02/06/2023 10:50:11 : Open Circuit point Calculation
+02/06/2023 10:50:11 : Solving FEA model
+02/06/2023 10:53:31 : Solving FEA model
+02/06/2023 10:53:31 : Solving FEA model
+02/06/2023 10:53:32 : Solving FEA model
+02/06/2023 10:53:32 : Solving FEA model
+02/06/2023 10:53:32 : Solving FEA model
+02/06/2023 10:53:32 : Solving FEA model
+02/06/2023 10:53:32 : Solving FEA model
+02/06/2023 10:53:32 : Solving FEA model
+02/06/2023 10:53:33 : Solving FEA model
+02/06/2023 10:53:33 : Solving FEA model
+02/06/2023 10:53:33 : Solving FEA model
+02/06/2023 10:53:33 : Solving FEA model
+02/06/2023 10:53:33 : Solving FEA model
+02/06/2023 10:53:33 : Solving FEA model
+02/06/2023 10:53:33 : Solving FEA model
+02/06/2023 10:53:33 : Solving FEA model
+02/06/2023 10:53:34 : Solving FEA model
+02/06/2023 10:53:34 : Solving FEA model
+02/06/2023 10:53:34 : Solving FEA model
+02/06/2023 10:53:34 : Solving FEA model
+02/06/2023 10:53:34 : Solving FEA model
+02/06/2023 10:53:34 : Solving FEA model
+02/06/2023 10:53:34 : Solving FEA model
+02/06/2023 10:53:35 : Solving FEA model
+02/06/2023 10:53:35 : Solving FEA model
+02/06/2023 10:53:35 : Solving FEA model
+02/06/2023 10:53:35 : Solving FEA model
+02/06/2023 10:53:35 : Solving FEA model
+02/06/2023 10:53:35 : Solving FEA model
+02/06/2023 10:53:35 : Solving FEA model
+02/06/2023 10:53:36 : Solving FEA model
+02/06/2023 10:53:36 : Solving FEA model
+02/06/2023 10:53:36 : Solving FEA model
+02/06/2023 10:53:36 : Solving FEA model
+02/06/2023 10:53:36 : Solving FEA model
+02/06/2023 10:53:36 : Solving FEA model
+02/06/2023 10:53:36 : Solving FEA model
+02/06/2023 10:53:37 : Solving FEA model
+02/06/2023 10:53:37 : Solving FEA model
+02/06/2023 10:53:37 : Solving FEA model
+02/06/2023 10:53:37 : Solving FEA model
+02/06/2023 10:53:37 : Solving FEA model
+02/06/2023 10:53:37 : Solving FEA model
+02/06/2023 10:53:37 : Solving FEA model
+02/06/2023 10:53:38 : Solving FEA model
+02/06/2023 10:53:38 : Solving FEA model
+02/06/2023 10:53:38 : Solving FEA model
+02/06/2023 10:53:38 : Solving FEA model
+02/06/2023 10:53:38 : Solving FEA model
+02/06/2023 10:53:38 : Solving FEA model
+02/06/2023 10:53:38 : Solving FEA model
+02/06/2023 10:53:39 : Solving FEA model
+02/06/2023 10:53:39 : Solving FEA model
+02/06/2023 10:53:39 : Solving FEA model
+02/06/2023 10:53:39 : Solving FEA model
+02/06/2023 10:53:39 : Solving FEA model
+02/06/2023 10:53:39 : Solving FEA model
+02/06/2023 10:53:39 : Solving FEA model
+02/06/2023 10:53:40 : Solving FEA model
+02/06/2023 10:53:40 : Solving FEA model
+02/06/2023 10:53:40 : Solving FEA model
+02/06/2023 10:53:40 : Solving FEA model
+02/06/2023 10:53:40 : Solving FEA model
+02/06/2023 10:53:44 : Transient Torque Calculation
+02/06/2023 10:53:44 : Solving FEA model
+02/06/2023 10:54:11 : FEA Calculation Time: 274 Seconds
+02/06/2023 10:54:12 : Solving completed
+02/06/2023 10:54:12 : Nodes count = 5238
+02/06/2023 10:54:12 : Elements count = 10136
+02/06/2023 10:54:12 : Status: Solving Completed
+02/06/2023 11:01:08 : File C:\Users\Yakup\Desktop\Hibrit Proje\HibritProje\Emag\outputResults.mot already exists
+Do you wish to overwrite it? = Yes
+02/06/2023 11:01:08 : Saved output results to: C:\Users\Yakup\Desktop\Hibrit Proje\HibritProje\Emag\outputResults.mot
+02/06/2023 11:01:08 : Saved graph results to: C:\Users\Yakup\Desktop\Hibrit Proje\HibritProje\Emag\GraphResults.ini
+02/06/2023 11:17:53 : Status: Solving FEA model
+02/06/2023 11:17:54 : Q axis current only Point Calculation
+02/06/2023 11:17:54 : Solving FEA model
+02/06/2023 11:17:54 : Load Point Calculation
+02/06/2023 11:17:54 : Solving FEA model
+02/06/2023 11:17:55 : Solving FEA model
+02/06/2023 11:17:55 : Solving FEA model
+02/06/2023 11:17:56 : Multistatic Inductance Calculation
+02/06/2023 11:17:56 : Solving FEA model
+02/06/2023 11:17:56 : Solving FEA model
+02/06/2023 11:17:56 : Solving FEA model
+02/06/2023 11:17:56 : Solving FEA model
+02/06/2023 11:17:57 : Solving FEA model
+02/06/2023 11:17:57 : Solving FEA model
+02/06/2023 11:17:57 : Solving FEA model
+02/06/2023 11:17:57 : Solving FEA model
+02/06/2023 11:17:57 : Solving FEA model
+02/06/2023 11:17:57 : Solving FEA model
+02/06/2023 11:17:57 : Solving FEA model
+02/06/2023 11:17:57 : Solving FEA model
+02/06/2023 11:17:58 : Solving FEA model
+02/06/2023 11:17:58 : Solving FEA model
+02/06/2023 11:17:58 : Solving FEA model
+02/06/2023 11:17:58 : Solving FEA model
+02/06/2023 11:17:58 : Solving FEA model
+02/06/2023 11:17:58 : Solving FEA model
+02/06/2023 11:17:59 : Solving FEA model
+02/06/2023 11:17:59 : Solving FEA model
+02/06/2023 11:17:59 : Solving FEA model
+02/06/2023 11:17:59 : Solving FEA model
+02/06/2023 11:17:59 : Solving FEA model
+02/06/2023 11:18:00 : Solving FEA model
+02/06/2023 11:18:00 : Solving FEA model
+02/06/2023 11:18:00 : Solving FEA model
+02/06/2023 11:18:00 : Solving FEA model
+02/06/2023 11:18:00 : Solving FEA model
+02/06/2023 11:18:00 : Solving FEA model
+02/06/2023 11:18:00 : Solving FEA model
+02/06/2023 11:18:01 : Solving FEA model
+02/06/2023 11:18:01 : Solving FEA model
+02/06/2023 11:18:01 : Solving FEA model
+02/06/2023 11:18:01 : Solving FEA model
+02/06/2023 11:18:01 : Solving FEA model
+02/06/2023 11:18:01 : Solving FEA model
+02/06/2023 11:18:01 : Solving FEA model
+02/06/2023 11:18:01 : Solving FEA model
+02/06/2023 11:18:02 : Solving FEA model
+02/06/2023 11:18:02 : Solving FEA model
+02/06/2023 11:18:02 : Solving FEA model
+02/06/2023 11:18:02 : Solving FEA model
+02/06/2023 11:18:02 : Solving FEA model
+02/06/2023 11:18:02 : Solving FEA model
+02/06/2023 11:18:02 : Solving FEA model
+02/06/2023 11:18:03 : Solving FEA model
+02/06/2023 11:18:03 : Solving FEA model
+02/06/2023 11:18:03 : Solving FEA model
+02/06/2023 11:18:03 : Solving FEA model
+02/06/2023 11:18:03 : Solving FEA model
+02/06/2023 11:18:03 : Solving FEA model
+02/06/2023 11:18:03 : Solving FEA model
+02/06/2023 11:18:04 : Solving FEA model
+02/06/2023 11:18:04 : Solving FEA model
+02/06/2023 11:18:04 : Solving FEA model
+02/06/2023 11:18:04 : Solving FEA model
+02/06/2023 11:18:04 : Solving FEA model
+02/06/2023 11:18:04 : Solving FEA model
+02/06/2023 11:18:04 : Solving FEA model
+02/06/2023 11:18:05 : Solving FEA model
+02/06/2023 11:18:05 : Solving FEA model
+02/06/2023 11:18:05 : Solving FEA model
+02/06/2023 11:18:05 : Solving FEA model
+02/06/2023 11:18:05 : Transient Back EMF Calculation
+02/06/2023 11:18:05 : Solving FEA model
+02/06/2023 11:18:29 : Open Circuit point Calculation
+02/06/2023 11:18:29 : Solving FEA model
+02/06/2023 11:21:51 : Solving FEA model
+02/06/2023 11:21:51 : Solving FEA model
+02/06/2023 11:21:51 : Solving FEA model
+02/06/2023 11:21:52 : Solving FEA model
+02/06/2023 11:21:52 : Solving FEA model
+02/06/2023 11:21:52 : Solving FEA model
+02/06/2023 11:21:52 : Solving FEA model
+02/06/2023 11:21:52 : Solving FEA model
+02/06/2023 11:21:52 : Solving FEA model
+02/06/2023 11:21:52 : Solving FEA model
+02/06/2023 11:21:53 : Solving FEA model
+02/06/2023 11:21:53 : Solving FEA model
+02/06/2023 11:21:53 : Solving FEA model
+02/06/2023 11:21:53 : Solving FEA model
+02/06/2023 11:21:53 : Solving FEA model
+02/06/2023 11:21:53 : Solving FEA model
+02/06/2023 11:21:53 : Solving FEA model
+02/06/2023 11:21:54 : Solving FEA model
+02/06/2023 11:21:54 : Solving FEA model
+02/06/2023 11:21:54 : Solving FEA model
+02/06/2023 11:21:54 : Solving FEA model
+02/06/2023 11:21:54 : Solving FEA model
+02/06/2023 11:21:54 : Solving FEA model
+02/06/2023 11:21:54 : Solving FEA model
+02/06/2023 11:21:54 : Solving FEA model
+02/06/2023 11:21:55 : Solving FEA model
+02/06/2023 11:21:55 : Solving FEA model
+02/06/2023 11:21:55 : Solving FEA model
+02/06/2023 11:21:55 : Solving FEA model
+02/06/2023 11:21:55 : Solving FEA model
+02/06/2023 11:21:55 : Solving FEA model
+02/06/2023 11:21:55 : Solving FEA model
+02/06/2023 11:21:56 : Solving FEA model
+02/06/2023 11:21:56 : Solving FEA model
+02/06/2023 11:21:56 : Solving FEA model
+02/06/2023 11:21:56 : Solving FEA model
+02/06/2023 11:21:56 : Solving FEA model
+02/06/2023 11:21:56 : Solving FEA model
+02/06/2023 11:21:56 : Solving FEA model
+02/06/2023 11:21:57 : Solving FEA model
+02/06/2023 11:21:57 : Solving FEA model
+02/06/2023 11:21:57 : Solving FEA model
+02/06/2023 11:21:57 : Solving FEA model
+02/06/2023 11:21:57 : Solving FEA model
+02/06/2023 11:21:57 : Solving FEA model
+02/06/2023 11:21:57 : Solving FEA model
+02/06/2023 11:21:58 : Solving FEA model
+02/06/2023 11:21:58 : Solving FEA model
+02/06/2023 11:21:58 : Solving FEA model
+02/06/2023 11:21:58 : Solving FEA model
+02/06/2023 11:21:58 : Solving FEA model
+02/06/2023 11:21:58 : Solving FEA model
+02/06/2023 11:21:58 : Solving FEA model
+02/06/2023 11:21:59 : Solving FEA model
+02/06/2023 11:21:59 : Solving FEA model
+02/06/2023 11:21:59 : Solving FEA model
+02/06/2023 11:21:59 : Solving FEA model
+02/06/2023 11:21:59 : Solving FEA model
+02/06/2023 11:21:59 : Solving FEA model
+02/06/2023 11:21:59 : Solving FEA model
+02/06/2023 11:22:00 : Solving FEA model
+02/06/2023 11:22:00 : Solving FEA model
+02/06/2023 11:22:00 : Solving FEA model
+02/06/2023 11:22:04 : Transient Torque Calculation
+02/06/2023 11:22:04 : Solving FEA model
+02/06/2023 11:22:31 : FEA Calculation Time: 276 Seconds
+02/06/2023 11:22:31 : Solving completed
+02/06/2023 11:22:31 : Nodes count = 5238
+02/06/2023 11:22:31 : Elements count = 10136
+02/06/2023 11:22:31 : Status: Solving Completed
+02/06/2023 11:22:33 : Steady State calculation completed after 4 iterations
+02/06/2023 11:22:33 : Status: Solving FEA model
+02/06/2023 11:22:33 : Q axis current only Point Calculation
+02/06/2023 11:22:33 : Solving FEA model
+02/06/2023 11:22:34 : Load Point Calculation
+02/06/2023 11:22:34 : Solving FEA model
+02/06/2023 11:22:34 : Solving FEA model
+02/06/2023 11:22:35 : Solving FEA model
+02/06/2023 11:22:35 : Multistatic Inductance Calculation
+02/06/2023 11:22:35 : Solving FEA model
+02/06/2023 11:22:35 : Solving FEA model
+02/06/2023 11:22:35 : Solving FEA model
+02/06/2023 11:22:36 : Solving FEA model
+02/06/2023 11:22:36 : Solving FEA model
+02/06/2023 11:22:36 : Solving FEA model
+02/06/2023 11:22:36 : Solving FEA model
+02/06/2023 11:22:36 : Solving FEA model
+02/06/2023 11:22:36 : Solving FEA model
+02/06/2023 11:22:36 : Solving FEA model
+02/06/2023 11:22:36 : Solving FEA model
+02/06/2023 11:22:37 : Solving FEA model
+02/06/2023 11:22:37 : Solving FEA model
+02/06/2023 11:22:37 : Solving FEA model
+02/06/2023 11:22:37 : Solving FEA model
+02/06/2023 11:22:37 : Solving FEA model
+02/06/2023 11:22:37 : Solving FEA model
+02/06/2023 11:22:37 : Solving FEA model
+02/06/2023 11:22:38 : Solving FEA model
+02/06/2023 11:22:38 : Solving FEA model
+02/06/2023 11:22:38 : Solving FEA model
+02/06/2023 11:22:38 : Solving FEA model
+02/06/2023 11:22:38 : Solving FEA model
+02/06/2023 11:22:38 : Solving FEA model
+02/06/2023 11:22:38 : Solving FEA model
+02/06/2023 11:22:39 : Solving FEA model
+02/06/2023 11:22:39 : Solving FEA model
+02/06/2023 11:22:39 : Solving FEA model
+02/06/2023 11:22:39 : Solving FEA model
+02/06/2023 11:22:39 : Solving FEA model
+02/06/2023 11:22:39 : Solving FEA model
+02/06/2023 11:22:39 : Solving FEA model
+02/06/2023 11:22:40 : Solving FEA model
+02/06/2023 11:22:40 : Solving FEA model
+02/06/2023 11:22:40 : Solving FEA model
+02/06/2023 11:22:40 : Solving FEA model
+02/06/2023 11:22:40 : Solving FEA model
+02/06/2023 11:22:40 : Solving FEA model
+02/06/2023 11:22:40 : Solving FEA model
+02/06/2023 11:22:41 : Solving FEA model
+02/06/2023 11:22:41 : Solving FEA model
+02/06/2023 11:22:41 : Solving FEA model
+02/06/2023 11:22:41 : Solving FEA model
+02/06/2023 11:22:41 : Solving FEA model
+02/06/2023 11:22:41 : Solving FEA model
+02/06/2023 11:22:41 : Solving FEA model
+02/06/2023 11:22:42 : Solving FEA model
+02/06/2023 11:22:42 : Solving FEA model
+02/06/2023 11:22:42 : Solving FEA model
+02/06/2023 11:22:42 : Solving FEA model
+02/06/2023 11:22:42 : Solving FEA model
+02/06/2023 11:22:42 : Solving FEA model
+02/06/2023 11:22:42 : Solving FEA model
+02/06/2023 11:22:42 : Solving FEA model
+02/06/2023 11:22:43 : Solving FEA model
+02/06/2023 11:22:43 : Solving FEA model
+02/06/2023 11:22:43 : Solving FEA model
+02/06/2023 11:22:43 : Solving FEA model
+02/06/2023 11:22:43 : Solving FEA model
+02/06/2023 11:22:43 : Solving FEA model
+02/06/2023 11:22:43 : Solving FEA model
+02/06/2023 11:22:44 : Solving FEA model
+02/06/2023 11:22:44 : Solving FEA model
+02/06/2023 11:22:44 : Transient Back EMF Calculation
+02/06/2023 11:22:44 : Solving FEA model
+02/06/2023 11:23:07 : Open Circuit point Calculation
+02/06/2023 11:23:07 : Solving FEA model
+02/06/2023 11:26:25 : Solving FEA model
+02/06/2023 11:26:25 : Solving FEA model
+02/06/2023 11:26:26 : Solving FEA model
+02/06/2023 11:26:26 : Solving FEA model
+02/06/2023 11:26:26 : Solving FEA model
+02/06/2023 11:26:26 : Solving FEA model
+02/06/2023 11:26:26 : Solving FEA model
+02/06/2023 11:26:26 : Solving FEA model
+02/06/2023 11:26:26 : Solving FEA model
+02/06/2023 11:26:27 : Solving FEA model
+02/06/2023 11:26:27 : Solving FEA model
+02/06/2023 11:26:27 : Solving FEA model
+02/06/2023 11:26:27 : Solving FEA model
+02/06/2023 11:26:27 : Solving FEA model
+02/06/2023 11:26:27 : Solving FEA model
+02/06/2023 11:26:27 : Solving FEA model
+02/06/2023 11:26:28 : Solving FEA model
+02/06/2023 11:26:28 : Solving FEA model
+02/06/2023 11:26:28 : Solving FEA model
+02/06/2023 11:26:28 : Solving FEA model
+02/06/2023 11:26:28 : Solving FEA model
+02/06/2023 11:26:28 : Solving FEA model
+02/06/2023 11:26:28 : Solving FEA model
+02/06/2023 11:26:28 : Solving FEA model
+02/06/2023 11:26:29 : Solving FEA model
+02/06/2023 11:26:29 : Solving FEA model
+02/06/2023 11:26:29 : Solving FEA model
+02/06/2023 11:26:29 : Solving FEA model
+02/06/2023 11:26:29 : Solving FEA model
+02/06/2023 11:26:29 : Solving FEA model
+02/06/2023 11:26:29 : Solving FEA model
+02/06/2023 11:26:30 : Solving FEA model
+02/06/2023 11:26:30 : Solving FEA model
+02/06/2023 11:26:30 : Solving FEA model
+02/06/2023 11:26:30 : Solving FEA model
+02/06/2023 11:26:30 : Solving FEA model
+02/06/2023 11:26:30 : Solving FEA model
+02/06/2023 11:26:30 : Solving FEA model
+02/06/2023 11:26:31 : Solving FEA model
+02/06/2023 11:26:31 : Solving FEA model
+02/06/2023 11:26:31 : Solving FEA model
+02/06/2023 11:26:31 : Solving FEA model
+02/06/2023 11:26:31 : Solving FEA model
+02/06/2023 11:26:31 : Solving FEA model
+02/06/2023 11:26:31 : Solving FEA model
+02/06/2023 11:26:32 : Solving FEA model
+02/06/2023 11:26:32 : Solving FEA model
+02/06/2023 11:26:32 : Solving FEA model
+02/06/2023 11:26:32 : Solving FEA model
+02/06/2023 11:26:32 : Solving FEA model
+02/06/2023 11:26:32 : Solving FEA model
+02/06/2023 11:26:32 : Solving FEA model
+02/06/2023 11:26:33 : Solving FEA model
+02/06/2023 11:26:33 : Solving FEA model
+02/06/2023 11:26:33 : Solving FEA model
+02/06/2023 11:26:33 : Solving FEA model
+02/06/2023 11:26:33 : Solving FEA model
+02/06/2023 11:26:33 : Solving FEA model
+02/06/2023 11:26:33 : Solving FEA model
+02/06/2023 11:26:33 : Solving FEA model
+02/06/2023 11:26:34 : Solving FEA model
+02/06/2023 11:26:34 : Solving FEA model
+02/06/2023 11:26:34 : Solving FEA model
+02/06/2023 11:26:34 : Transient Torque Calculation
+02/06/2023 11:26:34 : Solving FEA model
+02/06/2023 11:27:01 : FEA Calculation Time: 267 Seconds
+02/06/2023 11:27:01 : Solving completed
+02/06/2023 11:27:01 : Nodes count = 5238
+02/06/2023 11:27:01 : Elements count = 10136
+02/06/2023 11:27:01 : Status: Solving Completed
+02/06/2023 11:27:02 : Steady State calculation completed after 4 iterations
+02/06/2023 11:27:03 : Status: Solving FEA model
+02/06/2023 11:27:03 : Q axis current only Point Calculation
+02/06/2023 11:27:03 : Solving FEA model
+02/06/2023 11:27:03 : Load Point Calculation
+02/06/2023 11:27:04 : Solving FEA model
+02/06/2023 11:27:04 : Solving FEA model
+02/06/2023 11:27:04 : Solving FEA model
+02/06/2023 11:27:05 : Multistatic Inductance Calculation
+02/06/2023 11:27:05 : Solving FEA model
+02/06/2023 11:27:05 : Solving FEA model
+02/06/2023 11:27:05 : Solving FEA model
+02/06/2023 11:27:05 : Solving FEA model
+02/06/2023 11:27:06 : Solving FEA model
+02/06/2023 11:27:06 : Solving FEA model
+02/06/2023 11:27:06 : Solving FEA model
+02/06/2023 11:27:06 : Solving FEA model
+02/06/2023 11:27:06 : Solving FEA model
+02/06/2023 11:27:06 : Solving FEA model
+02/06/2023 11:27:06 : Solving FEA model
+02/06/2023 11:27:07 : Solving FEA model
+02/06/2023 11:27:07 : Solving FEA model
+02/06/2023 11:27:07 : Solving FEA model
+02/06/2023 11:27:07 : Solving FEA model
+02/06/2023 11:27:07 : Solving FEA model
+02/06/2023 11:27:07 : Solving FEA model
+02/06/2023 11:27:07 : Solving FEA model
+02/06/2023 11:27:07 : Solving FEA model
+02/06/2023 11:27:08 : Solving FEA model
+02/06/2023 11:27:08 : Solving FEA model
+02/06/2023 11:27:08 : Solving FEA model
+02/06/2023 11:27:08 : Solving FEA model
+02/06/2023 11:27:08 : Solving FEA model
+02/06/2023 11:27:08 : Solving FEA model
+02/06/2023 11:27:09 : Solving FEA model
+02/06/2023 11:27:09 : Solving FEA model
+02/06/2023 11:27:09 : Solving FEA model
+02/06/2023 11:27:09 : Solving FEA model
+02/06/2023 11:27:09 : Solving FEA model
+02/06/2023 11:27:09 : Solving FEA model
+02/06/2023 11:27:09 : Solving FEA model
+02/06/2023 11:27:10 : Solving FEA model
+02/06/2023 11:27:10 : Solving FEA model
+02/06/2023 11:27:10 : Solving FEA model
+02/06/2023 11:27:10 : Solving FEA model
+02/06/2023 11:27:10 : Solving FEA model
+02/06/2023 11:27:10 : Solving FEA model
+02/06/2023 11:27:10 : Solving FEA model
+02/06/2023 11:27:11 : Solving FEA model
+02/06/2023 11:27:11 : Solving FEA model
+02/06/2023 11:27:11 : Solving FEA model
+02/06/2023 11:27:11 : Solving FEA model
+02/06/2023 11:27:11 : Solving FEA model
+02/06/2023 11:27:11 : Solving FEA model
+02/06/2023 11:27:11 : Solving FEA model
+02/06/2023 11:27:12 : Solving FEA model
+02/06/2023 11:27:12 : Solving FEA model
+02/06/2023 11:27:12 : Solving FEA model
+02/06/2023 11:27:12 : Solving FEA model
+02/06/2023 11:27:12 : Solving FEA model
+02/06/2023 11:27:12 : Solving FEA model
+02/06/2023 11:27:13 : Solving FEA model
+02/06/2023 11:27:13 : Solving FEA model
+02/06/2023 11:27:13 : Solving FEA model
+02/06/2023 11:27:13 : Solving FEA model
+02/06/2023 11:27:13 : Solving FEA model
+02/06/2023 11:27:13 : Solving FEA model
+02/06/2023 11:27:13 : Solving FEA model
+02/06/2023 11:27:14 : Solving FEA model
+02/06/2023 11:27:14 : Solving FEA model
+02/06/2023 11:27:14 : Solving FEA model
+02/06/2023 11:27:14 : Solving FEA model
+02/06/2023 11:27:14 : Transient Back EMF Calculation
+02/06/2023 11:27:14 : Solving FEA model
+02/06/2023 11:27:36 : Open Circuit point Calculation
+02/06/2023 11:27:36 : Solving FEA model
+02/06/2023 11:30:34 : Solving FEA model
+02/06/2023 11:30:34 : Solving FEA model
+02/06/2023 11:30:34 : Solving FEA model
+02/06/2023 11:30:34 : Solving FEA model
+02/06/2023 11:30:35 : Solving FEA model
+02/06/2023 11:30:35 : Solving FEA model
+02/06/2023 11:30:35 : Solving FEA model
+02/06/2023 11:30:35 : Solving FEA model
+02/06/2023 11:30:35 : Solving FEA model
+02/06/2023 11:30:35 : Solving FEA model
+02/06/2023 11:30:35 : Solving FEA model
+02/06/2023 11:30:36 : Solving FEA model
+02/06/2023 11:30:36 : Solving FEA model
+02/06/2023 11:30:36 : Solving FEA model
+02/06/2023 11:30:36 : Solving FEA model
+02/06/2023 11:30:36 : Solving FEA model
+02/06/2023 11:30:36 : Solving FEA model
+02/06/2023 11:30:36 : Solving FEA model
+02/06/2023 11:30:37 : Solving FEA model
+02/06/2023 11:30:37 : Solving FEA model
+02/06/2023 11:30:37 : Solving FEA model
+02/06/2023 11:30:37 : Solving FEA model
+02/06/2023 11:30:37 : Solving FEA model
+02/06/2023 11:30:37 : Solving FEA model
+02/06/2023 11:30:37 : Solving FEA model
+02/06/2023 11:30:38 : Solving FEA model
+02/06/2023 11:30:38 : Solving FEA model
+02/06/2023 11:30:38 : Solving FEA model
+02/06/2023 11:30:38 : Solving FEA model
+02/06/2023 11:30:38 : Solving FEA model
+02/06/2023 11:30:38 : Solving FEA model
+02/06/2023 11:30:38 : Solving FEA model
+02/06/2023 11:30:39 : Solving FEA model
+02/06/2023 11:30:39 : Solving FEA model
+02/06/2023 11:30:39 : Solving FEA model
+02/06/2023 11:30:39 : Solving FEA model
+02/06/2023 11:30:39 : Solving FEA model
+02/06/2023 11:30:39 : Solving FEA model
+02/06/2023 11:30:39 : Solving FEA model
+02/06/2023 11:30:39 : Solving FEA model
+02/06/2023 11:30:40 : Solving FEA model
+02/06/2023 11:30:40 : Solving FEA model
+02/06/2023 11:30:40 : Solving FEA model
+02/06/2023 11:30:40 : Solving FEA model
+02/06/2023 11:30:40 : Solving FEA model
+02/06/2023 11:30:40 : Solving FEA model
+02/06/2023 11:30:40 : Solving FEA model
+02/06/2023 11:30:41 : Solving FEA model
+02/06/2023 11:30:41 : Solving FEA model
+02/06/2023 11:30:41 : Solving FEA model
+02/06/2023 11:30:41 : Solving FEA model
+02/06/2023 11:30:41 : Solving FEA model
+02/06/2023 11:30:41 : Solving FEA model
+02/06/2023 11:30:41 : Solving FEA model
+02/06/2023 11:30:42 : Solving FEA model
+02/06/2023 11:30:42 : Solving FEA model
+02/06/2023 11:30:42 : Solving FEA model
+02/06/2023 11:30:42 : Solving FEA model
+02/06/2023 11:30:42 : Solving FEA model
+02/06/2023 11:30:42 : Solving FEA model
+02/06/2023 11:30:42 : Solving FEA model
+02/06/2023 11:30:43 : Solving FEA model
+02/06/2023 11:30:43 : Solving FEA model
+02/06/2023 11:30:43 : Transient Torque Calculation
+02/06/2023 11:30:44 : Solving FEA model
+02/06/2023 11:31:10 : FEA Calculation Time: 246 Seconds
+02/06/2023 11:31:10 : Solving completed
+02/06/2023 11:31:10 : Nodes count = 5238
+02/06/2023 11:31:10 : Elements count = 10136
+02/06/2023 11:31:10 : Status: Solving Completed
+02/06/2023 11:31:11 : Steady State calculation completed after 4 iterations
+02/06/2023 11:31:12 : Status: Solving FEA model
+02/06/2023 11:31:12 : Q axis current only Point Calculation
+02/06/2023 11:31:12 : Solving FEA model
+02/06/2023 11:31:12 : Load Point Calculation
+02/06/2023 11:31:13 : Solving FEA model
+02/06/2023 11:31:13 : Solving FEA model
+02/06/2023 11:31:13 : Solving FEA model
+02/06/2023 11:31:14 : Multistatic Inductance Calculation
+02/06/2023 11:31:14 : Solving FEA model
+02/06/2023 11:31:14 : Solving FEA model
+02/06/2023 11:31:14 : Solving FEA model
+02/06/2023 11:31:15 : Solving FEA model
+02/06/2023 11:31:15 : Solving FEA model
+02/06/2023 11:31:15 : Solving FEA model
+02/06/2023 11:31:15 : Solving FEA model
+02/06/2023 11:31:15 : Solving FEA model
+02/06/2023 11:31:15 : Solving FEA model
+02/06/2023 11:31:15 : Solving FEA model
+02/06/2023 11:31:16 : Solving FEA model
+02/06/2023 11:31:16 : Solving FEA model
+02/06/2023 11:31:16 : Solving FEA model
+02/06/2023 11:31:16 : Solving FEA model
+02/06/2023 11:31:16 : Solving FEA model
+02/06/2023 11:31:16 : Solving FEA model
+02/06/2023 11:31:16 : Solving FEA model
+02/06/2023 11:31:17 : Solving FEA model
+02/06/2023 11:31:17 : Solving FEA model
+02/06/2023 11:31:17 : Solving FEA model
+02/06/2023 11:31:17 : Solving FEA model
+02/06/2023 11:31:17 : Solving FEA model
+02/06/2023 11:31:17 : Solving FEA model
+02/06/2023 11:31:18 : Solving FEA model
+02/06/2023 11:31:18 : Solving FEA model
+02/06/2023 11:31:18 : Solving FEA model
+02/06/2023 11:31:18 : Solving FEA model
+02/06/2023 11:31:18 : Solving FEA model
+02/06/2023 11:31:18 : Solving FEA model
+02/06/2023 11:31:18 : Solving FEA model
+02/06/2023 11:31:19 : Solving FEA model
+02/06/2023 11:31:19 : Solving FEA model
+02/06/2023 11:31:19 : Solving FEA model
+02/06/2023 11:31:19 : Solving FEA model
+02/06/2023 11:31:19 : Solving FEA model
+02/06/2023 11:31:19 : Solving FEA model
+02/06/2023 11:31:19 : Solving FEA model
+02/06/2023 11:31:20 : Solving FEA model
+02/06/2023 11:31:20 : Solving FEA model
+02/06/2023 11:31:20 : Solving FEA model
+02/06/2023 11:31:20 : Solving FEA model
+02/06/2023 11:31:20 : Solving FEA model
+02/06/2023 11:31:20 : Solving FEA model
+02/06/2023 11:31:20 : Solving FEA model
+02/06/2023 11:31:21 : Solving FEA model
+02/06/2023 11:31:21 : Solving FEA model
+02/06/2023 11:31:21 : Solving FEA model
+02/06/2023 11:31:21 : Solving FEA model
+02/06/2023 11:31:21 : Solving FEA model
+02/06/2023 11:31:21 : Solving FEA model
+02/06/2023 11:31:21 : Solving FEA model
+02/06/2023 11:31:22 : Solving FEA model
+02/06/2023 11:31:22 : Solving FEA model
+02/06/2023 11:31:22 : Solving FEA model
+02/06/2023 11:31:22 : Solving FEA model
+02/06/2023 11:31:22 : Solving FEA model
+02/06/2023 11:31:22 : Solving FEA model
+02/06/2023 11:31:22 : Solving FEA model
+02/06/2023 11:31:22 : Solving FEA model
+02/06/2023 11:31:23 : Solving FEA model
+02/06/2023 11:31:23 : Solving FEA model
+02/06/2023 11:31:23 : Solving FEA model
+02/06/2023 11:31:23 : Solving FEA model
+02/06/2023 11:31:23 : Transient Back EMF Calculation
+02/06/2023 11:31:23 : Solving FEA model
+02/06/2023 11:31:46 : Open Circuit point Calculation
+02/06/2023 11:31:46 : Solving FEA model
+02/06/2023 11:34:43 : Solving FEA model
+02/06/2023 11:34:43 : Solving FEA model
+02/06/2023 11:34:44 : Solving FEA model
+02/06/2023 11:34:44 : Solving FEA model
+02/06/2023 11:34:44 : Solving FEA model
+02/06/2023 11:34:44 : Solving FEA model
+02/06/2023 11:34:44 : Solving FEA model
+02/06/2023 11:34:44 : Solving FEA model
+02/06/2023 11:34:44 : Solving FEA model
+02/06/2023 11:34:45 : Solving FEA model
+02/06/2023 11:34:45 : Solving FEA model
+02/06/2023 11:34:45 : Solving FEA model
+02/06/2023 11:34:45 : Solving FEA model
+02/06/2023 11:34:45 : Solving FEA model
+02/06/2023 11:34:45 : Solving FEA model
+02/06/2023 11:34:45 : Solving FEA model
+02/06/2023 11:34:45 : Solving FEA model
+02/06/2023 11:34:46 : Solving FEA model
+02/06/2023 11:34:46 : Solving FEA model
+02/06/2023 11:34:46 : Solving FEA model
+02/06/2023 11:34:46 : Solving FEA model
+02/06/2023 11:34:46 : Solving FEA model
+02/06/2023 11:34:46 : Solving FEA model
+02/06/2023 11:34:46 : Solving FEA model
+02/06/2023 11:34:47 : Solving FEA model
+02/06/2023 11:34:47 : Solving FEA model
+02/06/2023 11:34:47 : Solving FEA model
+02/06/2023 11:34:47 : Solving FEA model
+02/06/2023 11:34:47 : Solving FEA model
+02/06/2023 11:34:47 : Solving FEA model
+02/06/2023 11:34:47 : Solving FEA model
+02/06/2023 11:34:48 : Solving FEA model
+02/06/2023 11:34:48 : Solving FEA model
+02/06/2023 11:34:48 : Solving FEA model
+02/06/2023 11:34:48 : Solving FEA model
+02/06/2023 11:34:48 : Solving FEA model
+02/06/2023 11:34:48 : Solving FEA model
+02/06/2023 11:34:48 : Solving FEA model
+02/06/2023 11:34:49 : Solving FEA model
+02/06/2023 11:34:49 : Solving FEA model
+02/06/2023 11:34:49 : Solving FEA model
+02/06/2023 11:34:49 : Solving FEA model
+02/06/2023 11:34:49 : Solving FEA model
+02/06/2023 11:34:49 : Solving FEA model
+02/06/2023 11:34:49 : Solving FEA model
+02/06/2023 11:34:50 : Solving FEA model
+02/06/2023 11:34:50 : Solving FEA model
+02/06/2023 11:34:50 : Solving FEA model
+02/06/2023 11:34:50 : Solving FEA model
+02/06/2023 11:34:50 : Solving FEA model
+02/06/2023 11:34:50 : Solving FEA model
+02/06/2023 11:34:50 : Solving FEA model
+02/06/2023 11:34:51 : Solving FEA model
+02/06/2023 11:34:51 : Solving FEA model
+02/06/2023 11:34:51 : Solving FEA model
+02/06/2023 11:34:51 : Solving FEA model
+02/06/2023 11:34:51 : Solving FEA model
+02/06/2023 11:34:51 : Solving FEA model
+02/06/2023 11:34:52 : Solving FEA model
+02/06/2023 11:34:52 : Solving FEA model
+02/06/2023 11:34:52 : Solving FEA model
+02/06/2023 11:34:52 : Solving FEA model
+02/06/2023 11:34:52 : Solving FEA model
+02/06/2023 11:34:53 : Transient Torque Calculation
+02/06/2023 11:34:53 : Solving FEA model
+02/06/2023 11:35:19 : FEA Calculation Time: 247 Seconds
+02/06/2023 11:35:20 : Solving completed
+02/06/2023 11:35:20 : Nodes count = 5238
+02/06/2023 11:35:20 : Elements count = 10136
+02/06/2023 11:35:20 : Status: Solving Completed
+02/06/2023 11:35:21 : Steady State calculation completed after 4 iterations
+02/06/2023 11:49:06 : File C:\Users\Yakup\Desktop\Hibrit Proje\HibritProje\Emag\outputResults.mot already exists
+Do you wish to overwrite it? = Yes
+02/06/2023 11:49:06 : Saved output results to: C:\Users\Yakup\Desktop\Hibrit Proje\HibritProje\Emag\outputResults.mot
+02/06/2023 11:49:06 : Saved graph results to: C:\Users\Yakup\Desktop\Hibrit Proje\HibritProje\Emag\GraphResults.ini
+02/06/2023 12:25:11 : Exported ANSYS Design Modeler script to file C:\Users\Yakup\Desktop\Hibrit Proje\HibritProje.js
+02/06/2023 15:10:46 : Loaded file: C:\Users\Yakup\Desktop\Hibrit Proje\HibritProje.mot
+02/06/2023 15:19:52 : Loaded output results from: C:\Users\Yakup\Desktop\Hibrit Proje\HibritProje\Emag\OutputResults.mot
+02/06/2023 15:19:52 : Loaded graph results from: C:\Users\Yakup\Desktop\Hibrit Proje\HibritProje\Emag\GraphResults.ini
+02/06/2023 19:29:42 : Loaded output results from: C:\Users\Yakup\Desktop\Hibrit Proje\HibritProje\Emag\OutputResults.mot
+02/06/2023 19:29:42 : Loaded graph results from: C:\Users\Yakup\Desktop\Hibrit Proje\HibritProje\Emag\GraphResults.ini
+02/06/2023 19:30:21 : Status: Solving FEA model
+02/06/2023 19:30:22 : Q axis current only Point Calculation
+02/06/2023 19:30:22 : Solving FEA model
+02/06/2023 19:30:23 : Load Point Calculation
+02/06/2023 19:30:24 : Solving FEA model
+02/06/2023 19:30:25 : Solving FEA model
+02/06/2023 19:30:26 : Solving FEA model
+02/06/2023 19:30:27 : Multistatic Inductance Calculation
+02/06/2023 19:30:27 : Solving FEA model
+02/06/2023 19:30:27 : Solving FEA model
+02/06/2023 19:30:28 : Solving FEA model
+02/06/2023 19:30:28 : Solving FEA model
+02/06/2023 19:30:29 : Solving FEA model
+02/06/2023 19:30:29 : Solving FEA model
+02/06/2023 19:30:30 : Solving FEA model
+02/06/2023 19:30:30 : Solving FEA model
+02/06/2023 19:30:30 : Solving FEA model
+02/06/2023 19:30:31 : Solving FEA model
+02/06/2023 19:30:31 : Solving FEA model
+02/06/2023 19:30:32 : Solving FEA model
+02/06/2023 19:30:32 : Solving FEA model
+02/06/2023 19:30:32 : Solving FEA model
+02/06/2023 19:30:33 : Solving FEA model
+02/06/2023 19:30:33 : Solving FEA model
+02/06/2023 19:30:34 : Solving FEA model
+02/06/2023 19:30:34 : Solving FEA model
+02/06/2023 19:30:34 : Solving FEA model
+02/06/2023 19:30:35 : Solving FEA model
+02/06/2023 19:30:35 : Solving FEA model
+02/06/2023 19:30:35 : Solving FEA model
+02/06/2023 19:30:36 : Solving FEA model
+02/06/2023 19:30:36 : Solving FEA model
+02/06/2023 19:30:37 : Solving FEA model
+02/06/2023 19:30:37 : Solving FEA model
+02/06/2023 19:30:37 : Solving FEA model
+02/06/2023 19:30:38 : Solving FEA model
+02/06/2023 19:30:38 : Solving FEA model
+02/06/2023 19:30:38 : Solving FEA model
+02/06/2023 19:30:39 : Solving FEA model
+02/06/2023 19:30:39 : Solving FEA model
+02/06/2023 19:30:39 : Solving FEA model
+02/06/2023 19:30:40 : Solving FEA model
+02/06/2023 19:30:40 : Solving FEA model
+02/06/2023 19:30:40 : Solving FEA model
+02/06/2023 19:30:41 : Solving FEA model
+02/06/2023 19:30:41 : Solving FEA model
+02/06/2023 19:30:42 : Solving FEA model
+02/06/2023 19:30:42 : Solving FEA model
+02/06/2023 19:30:42 : Solving FEA model
+02/06/2023 19:30:43 : Solving FEA model
+02/06/2023 19:30:43 : Solving FEA model
+02/06/2023 19:30:43 : Solving FEA model
+02/06/2023 19:30:44 : Solving FEA model
+02/06/2023 19:30:44 : Solving FEA model
+02/06/2023 19:30:45 : Solving FEA model
+02/06/2023 19:30:45 : Solving FEA model
+02/06/2023 19:30:45 : Solving FEA model
+02/06/2023 19:30:46 : Solving FEA model
+02/06/2023 19:30:46 : Solving FEA model
+02/06/2023 19:30:46 : Solving FEA model
+02/06/2023 19:30:47 : Solving FEA model
+02/06/2023 19:30:47 : Solving FEA model
+02/06/2023 19:30:47 : Solving FEA model
+02/06/2023 19:30:48 : Solving FEA model
+02/06/2023 19:30:48 : Solving FEA model
+02/06/2023 19:30:49 : Solving FEA model
+02/06/2023 19:30:49 : Solving FEA model
+02/06/2023 19:30:49 : Solving FEA model
+02/06/2023 19:30:50 : Solving FEA model
+02/06/2023 19:30:50 : Solving FEA model
+02/06/2023 19:30:50 : Solving FEA model
+02/06/2023 19:30:51 : Transient Back EMF Calculation
+02/06/2023 19:30:51 : Solving FEA model
+02/06/2023 19:31:49 : Open Circuit point Calculation
+02/06/2023 19:31:50 : Solving FEA model
+02/06/2023 19:32:19 : Solving cancelled
+02/06/2023 19:32:19 : Nodes count = 5235
+02/06/2023 19:32:19 : Elements count = 10136
+02/06/2023 19:32:19 : Status: Solving Cancelled
+02/06/2023 19:37:00 : Status: Solving FEA model
+02/06/2023 19:37:00 : Q axis current only Point Calculation
+02/06/2023 19:37:01 : Solving FEA model
+02/06/2023 19:37:01 : Load Point Calculation
+02/06/2023 19:37:01 : Solving FEA model
+02/06/2023 19:37:02 : Solving FEA model
+02/06/2023 19:37:02 : Solving FEA model
+02/06/2023 19:37:02 : Multistatic Inductance Calculation
+02/06/2023 19:37:02 : Solving FEA model
+02/06/2023 19:37:03 : Solving FEA model
+02/06/2023 19:37:03 : Solving FEA model
+02/06/2023 19:37:03 : Solving FEA model
+02/06/2023 19:37:03 : Solving FEA model
+02/06/2023 19:37:03 : Solving FEA model
+02/06/2023 19:37:03 : Solving FEA model
+02/06/2023 19:37:04 : Solving FEA model
+02/06/2023 19:37:04 : Solving FEA model
+02/06/2023 19:37:04 : Solving FEA model
+02/06/2023 19:37:04 : Solving FEA model
+02/06/2023 19:37:04 : Solving FEA model
+02/06/2023 19:37:04 : Solving FEA model
+02/06/2023 19:37:04 : Solving FEA model
+02/06/2023 19:37:05 : Solving FEA model
+02/06/2023 19:37:05 : Solving FEA model
+02/06/2023 19:37:05 : Solving FEA model
+02/06/2023 19:37:05 : Solving FEA model
+02/06/2023 19:37:05 : Solving FEA model
+02/06/2023 19:37:05 : Solving FEA model
+02/06/2023 19:37:05 : Solving FEA model
+02/06/2023 19:37:05 : Solving FEA model
+02/06/2023 19:37:06 : Solving FEA model
+02/06/2023 19:37:06 : Solving FEA model
+02/06/2023 19:37:06 : Solving FEA model
+02/06/2023 19:37:06 : Solving FEA model
+02/06/2023 19:37:06 : Solving FEA model
+02/06/2023 19:37:06 : Solving FEA model
+02/06/2023 19:37:06 : Solving FEA model
+02/06/2023 19:37:07 : Solving FEA model
+02/06/2023 19:37:07 : Solving FEA model
+02/06/2023 19:37:07 : Solving FEA model
+02/06/2023 19:37:07 : Solving FEA model
+02/06/2023 19:37:07 : Solving FEA model
+02/06/2023 19:37:07 : Solving FEA model
+02/06/2023 19:37:07 : Solving FEA model
+02/06/2023 19:37:08 : Solving FEA model
+02/06/2023 19:37:08 : Solving FEA model
+02/06/2023 19:37:08 : Solving FEA model
+02/06/2023 19:37:08 : Solving FEA model
+02/06/2023 19:37:08 : Solving FEA model
+02/06/2023 19:37:08 : Solving FEA model
+02/06/2023 19:37:08 : Solving FEA model
+02/06/2023 19:37:09 : Solving FEA model
+02/06/2023 19:37:09 : Solving FEA model
+02/06/2023 19:37:09 : Solving FEA model
+02/06/2023 19:37:09 : Solving FEA model
+02/06/2023 19:37:09 : Solving FEA model
+02/06/2023 19:37:09 : Solving FEA model
+02/06/2023 19:37:09 : Solving FEA model
+02/06/2023 19:37:10 : Solving FEA model
+02/06/2023 19:37:10 : Solving FEA model
+02/06/2023 19:37:10 : Solving FEA model
+02/06/2023 19:37:10 : Solving FEA model
+02/06/2023 19:37:10 : Solving FEA model
+02/06/2023 19:37:10 : Solving FEA model
+02/06/2023 19:37:10 : Solving FEA model
+02/06/2023 19:37:11 : Solving FEA model
+02/06/2023 19:37:11 : Solving FEA model
+02/06/2023 19:37:11 : Solving FEA model
+02/06/2023 19:37:11 : Solving FEA model
+02/06/2023 19:37:11 : Solving FEA model
+02/06/2023 19:37:11 : Solving FEA model
+02/06/2023 19:37:11 : Transient Back EMF Calculation
+02/06/2023 19:37:11 : Solving FEA model
+02/06/2023 19:37:35 : Open Circuit point Calculation
+02/06/2023 19:37:35 : Solving FEA model
+02/06/2023 19:40:07 : Solving FEA model
+02/06/2023 19:40:07 : Solving FEA model
+02/06/2023 19:40:07 : Solving FEA model
+02/06/2023 19:40:07 : Solving FEA model
+02/06/2023 19:40:07 : Solving FEA model
+02/06/2023 19:40:08 : Solving FEA model
+02/06/2023 19:40:08 : Solving FEA model
+02/06/2023 19:40:08 : Solving FEA model
+02/06/2023 19:40:08 : Solving FEA model
+02/06/2023 19:40:08 : Solving FEA model
+02/06/2023 19:40:08 : Solving FEA model
+02/06/2023 19:40:08 : Solving FEA model
+02/06/2023 19:40:09 : Solving FEA model
+02/06/2023 19:40:09 : Solving FEA model
+02/06/2023 19:40:09 : Solving FEA model
+02/06/2023 19:40:09 : Solving FEA model
+02/06/2023 19:40:09 : Solving FEA model
+02/06/2023 19:40:09 : Solving FEA model
+02/06/2023 19:40:09 : Solving FEA model
+02/06/2023 19:40:09 : Solving FEA model
+02/06/2023 19:40:10 : Solving FEA model
+02/06/2023 19:40:10 : Solving FEA model
+02/06/2023 19:40:10 : Solving FEA model
+02/06/2023 19:40:10 : Solving FEA model
+02/06/2023 19:40:10 : Solving FEA model
+02/06/2023 19:40:10 : Solving FEA model
+02/06/2023 19:40:10 : Solving FEA model
+02/06/2023 19:40:11 : Solving FEA model
+02/06/2023 19:40:11 : Solving FEA model
+02/06/2023 19:40:11 : Solving FEA model
+02/06/2023 19:40:11 : Solving FEA model
+02/06/2023 19:40:11 : Solving FEA model
+02/06/2023 19:40:11 : Solving FEA model
+02/06/2023 19:40:11 : Solving FEA model
+02/06/2023 19:40:12 : Solving FEA model
+02/06/2023 19:40:12 : Solving FEA model
+02/06/2023 19:40:12 : Solving FEA model
+02/06/2023 19:40:12 : Solving FEA model
+02/06/2023 19:40:12 : Solving FEA model
+02/06/2023 19:40:12 : Solving FEA model
+02/06/2023 19:40:12 : Solving FEA model
+02/06/2023 19:40:13 : Solving FEA model
+02/06/2023 19:40:13 : Solving FEA model
+02/06/2023 19:40:13 : Solving FEA model
+02/06/2023 19:40:13 : Solving FEA model
+02/06/2023 19:40:13 : Solving FEA model
+02/06/2023 19:40:13 : Solving FEA model
+02/06/2023 19:40:13 : Solving FEA model
+02/06/2023 19:40:14 : Solving FEA model
+02/06/2023 19:40:14 : Solving FEA model
+02/06/2023 19:40:14 : Solving FEA model
+02/06/2023 19:40:14 : Solving FEA model
+02/06/2023 19:40:14 : Solving FEA model
+02/06/2023 19:40:14 : Solving FEA model
+02/06/2023 19:40:14 : Solving FEA model
+02/06/2023 19:40:14 : Solving FEA model
+02/06/2023 19:40:15 : Solving FEA model
+02/06/2023 19:40:15 : Solving FEA model
+02/06/2023 19:40:15 : Solving FEA model
+02/06/2023 19:40:15 : Solving FEA model
+02/06/2023 19:40:15 : Solving FEA model
+02/06/2023 19:40:15 : Solving FEA model
+02/06/2023 19:40:15 : Solving FEA model
+02/06/2023 19:40:16 : Transient Torque Calculation
+02/06/2023 19:40:16 : Solving FEA model
+02/06/2023 19:40:42 : FEA Calculation Time: 221 Seconds
+02/06/2023 19:40:42 : Solving completed
+02/06/2023 19:40:42 : Nodes count = 5238
+02/06/2023 19:40:42 : Elements count = 10136
+02/06/2023 19:40:42 : Status: Solving Completed
+02/06/2023 19:40:44 : Steady State calculation completed after 4 iterations
+02/06/2023 19:40:44 : Status: Solving FEA model
+02/06/2023 19:40:44 : Q axis current only Point Calculation
+02/06/2023 19:40:44 : Solving FEA model
+02/06/2023 19:40:45 : Load Point Calculation
+02/06/2023 19:40:45 : Solving FEA model
+02/06/2023 19:40:45 : Solving FEA model
+02/06/2023 19:40:46 : Solving FEA model
+02/06/2023 19:40:46 : Multistatic Inductance Calculation
+02/06/2023 19:40:46 : Solving FEA model
+02/06/2023 19:40:46 : Solving FEA model
+02/06/2023 19:40:47 : Solving FEA model
+02/06/2023 19:40:47 : Solving FEA model
+02/06/2023 19:40:47 : Solving FEA model
+02/06/2023 19:40:47 : Solving FEA model
+02/06/2023 19:40:47 : Solving FEA model
+02/06/2023 19:40:47 : Solving FEA model
+02/06/2023 19:40:48 : Solving FEA model
+02/06/2023 19:40:48 : Solving FEA model
+02/06/2023 19:40:48 : Solving FEA model
+02/06/2023 19:40:48 : Solving FEA model
+02/06/2023 19:40:48 : Solving FEA model
+02/06/2023 19:40:48 : Solving FEA model
+02/06/2023 19:40:49 : Solving FEA model
+02/06/2023 19:40:49 : Solving FEA model
+02/06/2023 19:40:49 : Solving FEA model
+02/06/2023 19:40:49 : Solving FEA model
+02/06/2023 19:40:49 : Solving FEA model
+02/06/2023 19:40:49 : Solving FEA model
+02/06/2023 19:40:50 : Solving FEA model
+02/06/2023 19:40:50 : Solving FEA model
+02/06/2023 19:40:50 : Solving FEA model
+02/06/2023 19:40:50 : Solving FEA model
+02/06/2023 19:40:50 : Solving FEA model
+02/06/2023 19:40:50 : Solving FEA model
+02/06/2023 19:40:51 : Solving FEA model
+02/06/2023 19:40:51 : Solving FEA model
+02/06/2023 19:40:51 : Solving FEA model
+02/06/2023 19:40:51 : Solving FEA model
+02/06/2023 19:40:51 : Solving FEA model
+02/06/2023 19:40:51 : Solving FEA model
+02/06/2023 19:40:51 : Solving FEA model
+02/06/2023 19:40:52 : Solving FEA model
+02/06/2023 19:40:52 : Solving FEA model
+02/06/2023 19:40:52 : Solving FEA model
+02/06/2023 19:40:52 : Solving FEA model
+02/06/2023 19:40:52 : Solving FEA model
+02/06/2023 19:40:52 : Solving FEA model
+02/06/2023 19:40:52 : Solving FEA model
+02/06/2023 19:40:53 : Solving FEA model
+02/06/2023 19:40:53 : Solving FEA model
+02/06/2023 19:40:53 : Solving FEA model
+02/06/2023 19:40:53 : Solving FEA model
+02/06/2023 19:40:53 : Solving FEA model
+02/06/2023 19:40:53 : Solving FEA model
+02/06/2023 19:40:53 : Solving FEA model
+02/06/2023 19:40:54 : Solving FEA model
+02/06/2023 19:40:54 : Solving FEA model
+02/06/2023 19:40:54 : Solving FEA model
+02/06/2023 19:40:54 : Solving FEA model
+02/06/2023 19:40:54 : Solving FEA model
+02/06/2023 19:40:54 : Solving FEA model
+02/06/2023 19:40:54 : Solving FEA model
+02/06/2023 19:40:55 : Solving FEA model
+02/06/2023 19:40:55 : Solving FEA model
+02/06/2023 19:40:55 : Solving FEA model
+02/06/2023 19:40:55 : Solving FEA model
+02/06/2023 19:40:55 : Solving FEA model
+02/06/2023 19:40:55 : Solving FEA model
+02/06/2023 19:40:55 : Solving FEA model
+02/06/2023 19:40:56 : Solving FEA model
+02/06/2023 19:40:56 : Solving FEA model
+02/06/2023 19:40:56 : Transient Back EMF Calculation
+02/06/2023 19:40:56 : Solving FEA model
+02/06/2023 19:41:18 : Open Circuit point Calculation
+02/06/2023 19:41:18 : Solving FEA model
+02/06/2023 19:44:20 : Solving FEA model
+02/06/2023 19:44:20 : Solving FEA model
+02/06/2023 19:44:20 : Solving FEA model
+02/06/2023 19:44:20 : Solving FEA model
+02/06/2023 19:44:21 : Solving FEA model
+02/06/2023 19:44:21 : Solving FEA model
+02/06/2023 19:44:21 : Solving FEA model
+02/06/2023 19:44:21 : Solving FEA model
+02/06/2023 19:44:21 : Solving FEA model
+02/06/2023 19:44:21 : Solving FEA model
+02/06/2023 19:44:21 : Solving FEA model
+02/06/2023 19:44:22 : Solving FEA model
+02/06/2023 19:44:22 : Solving FEA model
+02/06/2023 19:44:22 : Solving FEA model
+02/06/2023 19:44:22 : Solving FEA model
+02/06/2023 19:44:22 : Solving FEA model
+02/06/2023 19:44:22 : Solving FEA model
+02/06/2023 19:44:22 : Solving FEA model
+02/06/2023 19:44:23 : Solving FEA model
+02/06/2023 19:44:23 : Solving FEA model
+02/06/2023 19:44:23 : Solving FEA model
+02/06/2023 19:44:23 : Solving FEA model
+02/06/2023 19:44:23 : Solving FEA model
+02/06/2023 19:44:23 : Solving FEA model
+02/06/2023 19:44:23 : Solving FEA model
+02/06/2023 19:44:24 : Solving FEA model
+02/06/2023 19:44:24 : Solving FEA model
+02/06/2023 19:44:24 : Solving FEA model
+02/06/2023 19:44:24 : Solving FEA model
+02/06/2023 19:44:24 : Solving FEA model
+02/06/2023 19:44:24 : Solving FEA model
+02/06/2023 19:44:24 : Solving FEA model
+02/06/2023 19:44:24 : Solving FEA model
+02/06/2023 19:44:25 : Solving FEA model
+02/06/2023 19:44:25 : Solving FEA model
+02/06/2023 19:44:25 : Solving FEA model
+02/06/2023 19:44:25 : Solving FEA model
+02/06/2023 19:44:25 : Solving FEA model
+02/06/2023 19:44:25 : Solving FEA model
+02/06/2023 19:44:25 : Solving FEA model
+02/06/2023 19:44:26 : Solving FEA model
+02/06/2023 19:44:26 : Solving FEA model
+02/06/2023 19:44:26 : Solving FEA model
+02/06/2023 19:44:26 : Solving FEA model
+02/06/2023 19:44:26 : Solving FEA model
+02/06/2023 19:44:26 : Solving FEA model
+02/06/2023 19:44:26 : Solving FEA model
+02/06/2023 19:44:27 : Solving FEA model
+02/06/2023 19:44:27 : Solving FEA model
+02/06/2023 19:44:27 : Solving FEA model
+02/06/2023 19:44:27 : Solving FEA model
+02/06/2023 19:44:27 : Solving FEA model
+02/06/2023 19:44:27 : Solving FEA model
+02/06/2023 19:44:27 : Solving FEA model
+02/06/2023 19:44:28 : Solving FEA model
+02/06/2023 19:44:28 : Solving FEA model
+02/06/2023 19:44:28 : Solving FEA model
+02/06/2023 19:44:28 : Solving FEA model
+02/06/2023 19:44:28 : Solving FEA model
+02/06/2023 19:44:28 : Solving FEA model
+02/06/2023 19:44:28 : Solving FEA model
+02/06/2023 19:44:29 : Solving FEA model
+02/06/2023 19:44:29 : Solving FEA model
+02/06/2023 19:44:29 : Transient Torque Calculation
+02/06/2023 19:44:29 : Solving FEA model
+02/06/2023 19:44:55 : FEA Calculation Time: 250 Seconds
+02/06/2023 19:44:55 : Solving completed
+02/06/2023 19:44:56 : Nodes count = 5238
+02/06/2023 19:44:56 : Elements count = 10136
+02/06/2023 19:44:56 : Status: Solving Completed
+02/06/2023 19:44:57 : Steady State calculation completed after 4 iterations
+02/06/2023 20:25:22 : Status: Solving FEA model
+02/06/2023 20:25:24 : A 2D thermal calculation must first be performed to ensure a valid comparison - please refer to the 2D calibration model manual page.
+Results will not be valid.
+02/06/2023 20:25:24 : Solving FEA model
+02/06/2023 20:25:24 : Solving completed
+02/06/2023 20:25:24 : Nodes count = 11515
+02/06/2023 20:25:24 : Elements count = 22950
+02/06/2023 20:25:25 : Status: Solving Completed
+02/06/2023 20:26:00 : Running thermal slot FEA
+02/06/2023 20:26:03 : A 2D thermal calculation must first be performed to ensure a valid comparison - please refer to the 2D calibration model manual page.
+Results will not be valid.
+02/06/2023 20:26:03 : Solving FEA model
+02/06/2023 20:26:03 : Solving completed
+02/06/2023 20:26:03 : Nodes count = 11515
+02/06/2023 20:26:03 : Elements count = 22950
+02/06/2023 20:26:18 : Status: Solving FEA model
+02/06/2023 20:26:18 : Solving FEA model
+02/06/2023 20:26:18 : Solving completed
+02/06/2023 20:26:18 : Nodes count = 189
+02/06/2023 20:26:18 : Elements count = 316
+02/06/2023 20:26:18 : Status: Solving Completed
+02/06/2023 20:26:24 : Status: Solving FEA model
+02/06/2023 20:26:26 : Solving FEA model
+02/06/2023 20:26:26 : Solving completed
+02/06/2023 20:26:26 : Nodes count = 11639
+02/06/2023 20:26:26 : Elements count = 16958
+02/06/2023 20:26:26 : Status: Solving Completed
+02/06/2023 20:26:39 : Status: Solving FEA model
+02/06/2023 20:26:42 : A 2D thermal calculation must first be performed to ensure a valid comparison - please refer to the 2D calibration model manual page.
+Results will not be valid.
+02/06/2023 20:26:43 : Solving FEA model
+02/06/2023 20:26:43 : Solving completed
+02/06/2023 20:26:43 : Nodes count = 11515
+02/06/2023 20:26:43 : Elements count = 22950
+02/06/2023 20:26:43 : Status: Solving Completed
+02/06/2023 20:30:10 : Status: Solving FEA model
+02/06/2023 20:30:11 : Solving FEA model
+02/06/2023 20:30:11 : Solving completed
+02/06/2023 20:30:11 : Nodes count = 189
+02/06/2023 20:30:11 : Elements count = 316
+02/06/2023 20:30:11 : Status: Solving Completed
+02/06/2023 20:30:15 : Status: Solving FEA model
+02/06/2023 20:30:17 : Solving FEA model
+02/06/2023 20:30:17 : Solving completed
+02/06/2023 20:30:17 : Nodes count = 11639
+02/06/2023 20:30:17 : Elements count = 16958
+02/06/2023 20:30:18 : Status: Solving Completed
+02/06/2023 20:30:25 : Status: Solving FEA model
+02/06/2023 20:30:25 : Solving FEA model
+02/06/2023 20:30:26 : Solving completed
+02/06/2023 20:30:26 : Nodes count = 10678
+02/06/2023 20:30:26 : Elements count = 17058
+02/06/2023 20:30:26 : Status: Solving Completed
+02/06/2023 20:30:32 : Status: Solving FEA model
+02/06/2023 20:30:35 : A 2D thermal calculation must first be performed to ensure a valid comparison - please refer to the 2D calibration model manual page.
+Results will not be valid.
+02/06/2023 20:30:36 : Solving FEA model
+02/06/2023 20:30:36 : Solving completed
+02/06/2023 20:30:36 : Nodes count = 11515
+02/06/2023 20:30:36 : Elements count = 22950
+02/06/2023 20:30:37 : Status: Solving Completed
+02/06/2023 20:32:21 : Status: Solving FEA model
+02/06/2023 20:32:22 : Q axis current only Point Calculation
+02/06/2023 20:32:22 : Solving FEA model
+02/06/2023 20:32:23 : Load Point Calculation
+02/06/2023 20:32:23 : Solving FEA model
+02/06/2023 20:32:24 : Solving FEA model
+02/06/2023 20:32:25 : Solving FEA model
+02/06/2023 20:32:25 : Multistatic Inductance Calculation
+02/06/2023 20:32:25 : Solving FEA model
+02/06/2023 20:32:25 : Solving FEA model
+02/06/2023 20:32:26 : Solving FEA model
+02/06/2023 20:32:26 : Solving FEA model
+02/06/2023 20:32:27 : Solving FEA model
+02/06/2023 20:32:27 : Solving FEA model
+02/06/2023 20:32:27 : Solving FEA model
+02/06/2023 20:32:28 : Solving FEA model
+02/06/2023 20:32:28 : Solving FEA model
+02/06/2023 20:32:28 : Solving FEA model
+02/06/2023 20:32:29 : Solving FEA model
+02/06/2023 20:32:29 : Solving FEA model
+02/06/2023 20:32:29 : Solving FEA model
+02/06/2023 20:32:30 : Solving FEA model
+02/06/2023 20:32:30 : Solving FEA model
+02/06/2023 20:32:30 : Solving FEA model
+02/06/2023 20:32:31 : Solving FEA model
+02/06/2023 20:32:31 : Solving FEA model
+02/06/2023 20:32:31 : Solving FEA model
+02/06/2023 20:32:32 : Solving FEA model
+02/06/2023 20:32:32 : Solving FEA model
+02/06/2023 20:32:32 : Solving FEA model
+02/06/2023 20:32:32 : Solving FEA model
+02/06/2023 20:32:33 : Solving FEA model
+02/06/2023 20:32:33 : Solving FEA model
+02/06/2023 20:32:33 : Solving FEA model
+02/06/2023 20:32:33 : Solving FEA model
+02/06/2023 20:32:34 : Solving FEA model
+02/06/2023 20:32:34 : Solving FEA model
+02/06/2023 20:32:34 : Solving FEA model
+02/06/2023 20:32:34 : Solving FEA model
+02/06/2023 20:32:35 : Solving FEA model
+02/06/2023 20:32:35 : Solving FEA model
+02/06/2023 20:32:35 : Solving FEA model
+02/06/2023 20:32:36 : Solving FEA model
+02/06/2023 20:32:36 : Solving FEA model
+02/06/2023 20:32:36 : Solving FEA model
+02/06/2023 20:32:37 : Solving FEA model
+02/06/2023 20:32:37 : Solving FEA model
+02/06/2023 20:32:37 : Solving FEA model
+02/06/2023 20:32:38 : Solving FEA model
+02/06/2023 20:32:38 : Solving FEA model
+02/06/2023 20:32:38 : Solving FEA model
+02/06/2023 20:32:39 : Solving FEA model
+02/06/2023 20:32:39 : Solving FEA model
+02/06/2023 20:32:39 : Solving FEA model
+02/06/2023 20:32:40 : Solving FEA model
+02/06/2023 20:32:40 : Solving FEA model
+02/06/2023 20:32:40 : Solving FEA model
+02/06/2023 20:32:41 : Solving FEA model
+02/06/2023 20:32:41 : Solving FEA model
+02/06/2023 20:32:41 : Solving FEA model
+02/06/2023 20:32:41 : Solving FEA model
+02/06/2023 20:32:42 : Solving FEA model
+02/06/2023 20:32:42 : Solving FEA model
+02/06/2023 20:32:42 : Solving FEA model
+02/06/2023 20:32:42 : Solving FEA model
+02/06/2023 20:32:43 : Solving FEA model
+02/06/2023 20:32:43 : Solving FEA model
+02/06/2023 20:32:43 : Solving FEA model
+02/06/2023 20:32:44 : Solving FEA model
+02/06/2023 20:32:44 : Solving FEA model
+02/06/2023 20:32:44 : Solving FEA model
+02/06/2023 20:32:44 : Transient Back EMF Calculation
+02/06/2023 20:32:45 : Solving FEA model
+02/06/2023 20:33:14 : Open Circuit point Calculation
+02/06/2023 20:33:14 : Solving FEA model
+02/06/2023 20:37:07 : Solving FEA model
+02/06/2023 20:37:07 : Solving FEA model
+02/06/2023 20:37:08 : Solving FEA model
+02/06/2023 20:37:08 : Solving FEA model
+02/06/2023 20:37:08 : Solving FEA model
+02/06/2023 20:37:08 : Solving FEA model
+02/06/2023 20:37:09 : Solving FEA model
+02/06/2023 20:37:09 : Solving FEA model
+02/06/2023 20:37:10 : Solving FEA model
+02/06/2023 20:37:10 : Solving FEA model
+02/06/2023 20:37:10 : Solving FEA model
+02/06/2023 20:37:11 : Solving FEA model
+02/06/2023 20:37:11 : Solving FEA model
+02/06/2023 20:37:11 : Solving FEA model
+02/06/2023 20:37:12 : Solving FEA model
+02/06/2023 20:37:12 : Solving FEA model
+02/06/2023 20:37:12 : Solving FEA model
+02/06/2023 20:37:13 : Solving FEA model
+02/06/2023 20:37:13 : Solving FEA model
+02/06/2023 20:37:13 : Solving FEA model
+02/06/2023 20:37:14 : Solving FEA model
+02/06/2023 20:37:14 : Solving FEA model
+02/06/2023 20:37:14 : Solving FEA model
+02/06/2023 20:37:14 : Solving FEA model
+02/06/2023 20:37:15 : Solving FEA model
+02/06/2023 20:37:15 : Solving FEA model
+02/06/2023 20:37:15 : Solving FEA model
+02/06/2023 20:37:15 : Solving FEA model
+02/06/2023 20:37:16 : Solving FEA model
+02/06/2023 20:37:16 : Solving FEA model
+02/06/2023 20:37:16 : Solving FEA model
+02/06/2023 20:37:17 : Solving FEA model
+02/06/2023 20:37:17 : Solving FEA model
+02/06/2023 20:37:17 : Solving FEA model
+02/06/2023 20:37:18 : Solving FEA model
+02/06/2023 20:37:18 : Solving FEA model
+02/06/2023 20:37:18 : Solving FEA model
+02/06/2023 20:37:19 : Solving FEA model
+02/06/2023 20:37:19 : Solving FEA model
+02/06/2023 20:37:20 : Solving FEA model
+02/06/2023 20:37:20 : Solving FEA model
+02/06/2023 20:37:20 : Solving FEA model
+02/06/2023 20:37:21 : Solving FEA model
+02/06/2023 20:37:21 : Solving FEA model
+02/06/2023 20:37:21 : Solving FEA model
+02/06/2023 20:37:22 : Solving FEA model
+02/06/2023 20:37:22 : Solving FEA model
+02/06/2023 20:37:22 : Solving FEA model
+02/06/2023 20:37:23 : Solving FEA model
+02/06/2023 20:37:23 : Solving FEA model
+02/06/2023 20:37:23 : Solving FEA model
+02/06/2023 20:37:24 : Solving FEA model
+02/06/2023 20:37:24 : Solving FEA model
+02/06/2023 20:37:24 : Solving FEA model
+02/06/2023 20:37:24 : Solving FEA model
+02/06/2023 20:37:25 : Solving FEA model
+02/06/2023 20:37:25 : Solving FEA model
+02/06/2023 20:37:25 : Solving FEA model
+02/06/2023 20:37:25 : Solving FEA model
+02/06/2023 20:37:26 : Solving FEA model
+02/06/2023 20:37:26 : Solving FEA model
+02/06/2023 20:37:26 : Solving FEA model
+02/06/2023 20:37:27 : Solving FEA model
+02/06/2023 20:37:28 : Transient Torque Calculation
+02/06/2023 20:37:28 : Solving FEA model
+02/06/2023 20:38:01 : FEA Calculation Time: 339 Seconds
+02/06/2023 20:38:02 : Solving completed
+02/06/2023 20:38:03 : Nodes count = 5238
+02/06/2023 20:38:03 : Elements count = 10136
+02/06/2023 20:38:03 : Status: Solving Completed
+02/06/2023 20:38:05 : Steady State calculation completed after 4 iterations
